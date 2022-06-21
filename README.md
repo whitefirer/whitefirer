@@ -23,8 +23,9 @@
 - 📫 How to reach me: [send email to me](mailto:whitefirer@gmail.com)![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:whitefirer@gmail.com)
 - ⚡ Fun fact: I am a GEEK
 - 💻 *Languages and Tools:* 🛠️<br>
-<img align="right" src="https://skillicons.dev/icons?i=go,python,c,cpp,rust,webassembly,nodejs,javascript,typescript,fastapi,flask,django,postgres,mysql,mongo,redis,react,vue,bootstrap,git,kubernetes,docker,vim,vscode&perline=4&theme=light" />
+
 <h5>Languages</h5>
+<img align="right" src="https://skillicons.dev/icons?i=go,python,c,cpp,rust,webassembly,nodejs,javascript,typescript,fastapi,flask,django,postgres,mysql,mongo,redis,react,vue,bootstrap,git,kubernetes,docker,vim,vscode&perline=4&theme=light" />
 
 ![Go](https://img.shields.io/badge/-Go-5f5f5f?style=flat&logo=go&logoColor=85d2e3&labelColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-5f5f5f?style=flat&logo=python&labelColor=ffffff)
