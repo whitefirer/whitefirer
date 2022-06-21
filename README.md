@@ -27,7 +27,6 @@
 <h5>Languages</h5>
 
 <img align="right" src="https://skillicons.dev/icons?i=go,python,c,cpp,rust,webassembly,nodejs,javascript,typescript,fastapi,flask,django,postgres,mysql,mongo,redis,react,vue,bootstrap,git,kubernetes,docker,vim,vscode&perline=4&theme=light" />
-</div>
 
 ![Go](https://img.shields.io/badge/-Go-5f5f5f?style=flat&logo=go&logoColor=85d2e3&labelColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-5f5f5f?style=flat&logo=python&labelColor=ffffff)
@@ -100,3 +99,4 @@
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongo,redis,kafka,zookeeper&theme=light)](https://skillicons.dev)</br>
 [![My Skills](https://skillicons.dev/icons?i=react,vue,bootstrap,jquery&theme=light)](https://skillicons.dev) -->
 <img src="https://github-profile-trophy.vercel.app/?username=whitefirer&theme=vue&column=7&margin-w=10" alt="logo" height="160" align="center" />
+</div>
