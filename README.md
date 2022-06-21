@@ -11,7 +11,6 @@
 <a href="https://github.com/hashicorp/consul">![Consul](https://img.shields.io/badge/-Consul-5f5f5f?style=flat&logo=consul&logoColor=ffffff&labelColor=ce4875)</a>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=whitefirer)
 
-<div>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=whitefirer&show_icons=true&theme=vue" alt="whitefirer's github stats" />
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev) -->
@@ -23,7 +22,8 @@
 - 💬 Ask me about *`Cloud Native`* or *`Architecture Design`*.
 - 📫 How to reach me: [send email to me](mailto:whitefirer@gmail.com)![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:whitefirer@gmail.com)
 - ⚡ Fun fact: I am a GEEK
-- 💻 *Languages and Tools:* 🛠️<br><img align="right" src="https://skillicons.dev/icons?i=go,python,c,cpp,rust,webassembly,nodejs,javascript,typescript,fastapi,flask,django,postgres,mysql,mongo,redis,react,vue,bootstrap,git,kubernetes,docker,vim,vscode&perline=4&theme=light" />
+- 💻 *Languages and Tools:* 🛠️<br>
+<img align="right" src="https://skillicons.dev/icons?i=go,python,c,cpp,rust,webassembly,nodejs,javascript,typescript,fastapi,flask,django,postgres,mysql,mongo,redis,react,vue,bootstrap,git,kubernetes,docker,vim,vscode&perline=4&theme=light" />
 <h5>Languages</h5>
 
 ![Go](https://img.shields.io/badge/-Go-5f5f5f?style=flat&logo=go&logoColor=85d2e3&labelColor=ffffff)
@@ -97,4 +97,3 @@
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongo,redis,kafka,zookeeper&theme=light)](https://skillicons.dev)</br>
 [![My Skills](https://skillicons.dev/icons?i=react,vue,bootstrap,jquery&theme=light)](https://skillicons.dev) -->
 <img src="https://github-profile-trophy.vercel.app/?username=whitefirer&theme=vue&column=7&margin-w=10" alt="logo" height="160" align="center" />
-</div>
