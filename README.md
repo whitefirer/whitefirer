@@ -45,7 +45,9 @@
 ![Fastapi](https://img.shields.io/badge/-Fastapi-5f5f5f?style=flat&logo=fastapi&logoColor=ffffff&labelColor=44968a)
 ![Flask](https://img.shields.io/badge/-Flask-5f5f5f?style=flat&logo=flask&logoColor=000000&labelColor=ffffff)
 ![Django](https://img.shields.io/badge/-Django-5f5f5f?style=flat&logo=django&logoColor=000000&labelColor=ffffff)
+![Gin](https://img.shields.io/badge/-Gin-5f5f5f?style=flat&logo=gin&labelColor=ffffff)
 ![React](https://img.shields.io/badge/-React-5f5f5f?style=flat&logo=react&labelColor=ffffff)
+![Vue](https://img.shields.io/badge/-Vue-5f5f5f?style=flat&logo=vue.js&labelColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-5f5f5f?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
 ![jQuery](https://img.shields.io/badge/-jQuery-5f5f5f?style=flat&logo=jQuery&logoColor=0769AD&labelColor=ffffff)
 
@@ -73,6 +75,11 @@
 ![Helm](https://img.shields.io/badge/-Helm-5f5f5f?style=flat&logo=helm&logoColor=ffffff&labelColor=0078D6)
 ![NPM](https://img.shields.io/badge/-npm-5f5f5f?style=flat&logo=npm&labelColor=ffffff)
 ![Obsidian](https://img.shields.io/badge/-Obsidian-5f5f5f?style=flat&logo=obsidian&logoColor=8074d3&labelColor=ffffff)
+![Vmware](https://img.shields.io/badge/-Vmware-5f5f5f?style=flat&logo=vmware&labelColor=ffffff)
+![Qemu](https://img.shields.io/badge/-Qemu-5f5f5f?style=flat&logo=qemu&labelColor=ffffff)
+![VirtualBox](https://img.shields.io/badge/-VirtualBox-5f5f5f?style=flat&logo=virtualbox&labelColor=213a61)
+![Snipaste](https://img.shields.io/badge/-Snipaste-5f5f5f?style=flat&logo=snipaste&labelColor=ffffff)
+![Slack](https://img.shields.io/badge/-Slack-5f5f5f?style=flat&logo=slack&logoColor=ffffff&labelColor=0078D6)
 
 <h5>Operating systems</h5>
 
