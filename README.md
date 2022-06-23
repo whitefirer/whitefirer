@@ -1,14 +1,14 @@
 ### Hi there, I'm `whitefirer` <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=25>
 
-<a href="https://www.cncf.io/">![CNCF](https://img.shields.io/badge/-CNCF-5f5f5f?style=flat&logo=cncf&logoColor=ffffff&labelColor=0078D6)</a>
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-5f5f5f?style=flat&logo=kubernetes&logoColor=ffffff&labelColor=0078D6)
-![Istio](https://img.shields.io/badge/-Istio-5f5f5f?style=flat&logo=istio&logoColor=ffffff&labelColor=0078D6)
-![Aeraki](https://img.shields.io/badge/-Aeraki-5f5f5f?style=flat&logo=aeraki&logoColor=ffffff&labelColor=0078D6)
-![Argo](https://img.shields.io/badge/-Argo-5f5f5f?style=flat&logo=argo&logoColor=ffffff&labelColor=0078D6)
-![Docker](https://img.shields.io/badge/-Docker-5f5f5f?style=flat&logo=docker&logoColor=ffffff&labelColor=0078D6)
-<a href="https://github.com/etcd-io/etcd">![ETCD](https://img.shields.io/badge/-ETCD-5f5f5f?style=flat&logo=etcd&logoColor=ffffff&labelColor=599dd5)</a>
-![Envoy](https://img.shields.io/badge/-Envoy-5f5f5f?style=flat&logo=consul&logoColor=ffffff&labelColor=d04fab)
-<a href="https://github.com/hashicorp/consul">![Consul](https://img.shields.io/badge/-Consul-5f5f5f?style=flat&logo=consul&logoColor=ffffff&labelColor=ce4875)</a>
+<a href="https://www.cncf.io/" target="_blank">![CNCF](https://img.shields.io/badge/-CNCF-5f5f5f?style=flat&logo=cncf&logoColor=ffffff&labelColor=0078D6)</a>
+<a href="https://github.com/kubernetes" target="_blank">![Kubernetes](https://img.shields.io/badge/-Kubernetes-5f5f5f?style=flat&logo=kubernetes&logoColor=ffffff&labelColor=0078D6)</a>
+<a href="https://github.com/istio" target=_blank>![Istio](https://img.shields.io/badge/-Istio-5f5f5f?style=flat&logo=istio&logoColor=ffffff&labelColor=0078D6)</a>
+<a href="https://github.com/aeraki-mesh" target="_blank">![Aeraki](https://img.shields.io/badge/-Aeraki-5f5f5f?style=flat&logo=aeraki&logoColor=ffffff&labelColor=0078D6)</a>
+<a href="https://github.com/argoproj" target="_blank">![Argo](https://img.shields.io/badge/-Argo-5f5f5f?style=flat&logo=argo&logoColor=ffffff&labelColor=0078D6)</a>
+<a href="https://github.com/docker" target="_blank">![Docker](https://img.shields.io/badge/-Docker-5f5f5f?style=flat&logo=docker&logoColor=ffffff&labelColor=0078D6)</a>
+<a href="https://github.com/etcd-io/etcd" target="_blank">![ETCD](https://img.shields.io/badge/-ETCD-5f5f5f?style=flat&logo=etcd&logoColor=ffffff&labelColor=599dd5)</a>
+<a href="https://github.com/envoyproxy" target="_blank">![Envoy](https://img.shields.io/badge/-Envoy-5f5f5f?style=flat&logo=consul&logoColor=ffffff&labelColor=d04fab)</a>
+<a href="https://github.com/hashicorp/consul" target="_blank">![Consul](https://img.shields.io/badge/-Consul-5f5f5f?style=flat&logo=consul&logoColor=ffffff&labelColor=ce4875)</a>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=whitefirer)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=whitefirer&show_icons=true&theme=vue" alt="whitefirer's github stats" />
@@ -35,12 +35,12 @@
 ![wasm](https://img.shields.io/badge/-Wasm-5f5f5f?style=flat&logo=webassembly&logoColor=4a79a5&labelColor=ffffff)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-5f5f5f?style=flat&logo=Node.js&labelColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-5f5f5f?style=flat&logo=javascript&labelColor=ffffff)
-![TypeScript](https://img.shields.io/badge/-TypeScript-5f5f5f?style=flat&logo=typescript&labelColor=ffffff)<br>
+![TypeScript](https://img.shields.io/badge/-TypeScript-5f5f5f?style=flat&logo=typescript&labelColor=ffffff)
 ![Markdown](https://img.shields.io/badge/-Markdown-5f5f5f?style=flat&logo=markdown&logoColor=4a79a5&labelColor=ffffff)
 
 <h5>Frameworks</h5>
   
-![Fastapi](https://img.shields.io/badge/-Fastapi-5f5f5f?style=flat&logo=fastapi&logoColor=ffffff&labelColor=44968a)
+<a href="https://fastapi.tiangolo.com/" target="_blank">![Fastapi](https://img.shields.io/badge/-Fastapi-5f5f5f?style=flat&logo=fastapi&logoColor=ffffff&labelColor=44968a)<a>
 ![Flask](https://img.shields.io/badge/-Flask-5f5f5f?style=flat&logo=flask&logoColor=000000&labelColor=ffffff)
 ![Django](https://img.shields.io/badge/-Django-5f5f5f?style=flat&logo=django&logoColor=000000&labelColor=ffffff)
 ![Gin](https://img.shields.io/badge/-Gin-5f5f5f?style=flat&logo=gin&labelColor=ffffff)
@@ -76,8 +76,12 @@
 ![Vmware](https://img.shields.io/badge/-Vmware-5f5f5f?style=flat&logo=vmware&labelColor=ffffff)
 ![Qemu](https://img.shields.io/badge/-Qemu-5f5f5f?style=flat&logo=qemu&labelColor=ffffff)
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-5f5f5f?style=flat&logo=virtualbox&labelColor=213a61)
-![Snipaste](https://img.shields.io/badge/-Snipaste-5f5f5f?style=flat&logo=snipaste&labelColor=ffffff)
 ![Slack](https://img.shields.io/badge/-Slack-5f5f5f?style=flat&logo=slack&logoColor=ffffff&labelColor=0078D6)
+
+<h5>Hobby platform</h5>
+
+![Steam](https://img.shields.io/badge/-Steam-5f5f5f?style=flat&logo=steam&labelColor=213a61)
+![Nintendo](https://img.shields.io/badge/-Nintendo-5f5f5f?style=flat&logo=nintendo&labelColor=333333)
 
 <h5>Operating systems</h5>
 
