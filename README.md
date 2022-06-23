@@ -10,6 +10,7 @@
 [![Envoy](https://img.shields.io/badge/-Envoy-5f5f5f?style=flat&logo=consul&logoColor=ffffff&labelColor=d04fab)](https://github.com/envoyproxy)
 [![Consul](https://img.shields.io/badge/-Consul-5f5f5f?style=flat&logo=consul&logoColor=ffffff&labelColor=ce4875)](https://github.com/hashicorp/consul)
 [![GNU](https://img.shields.io/badge/-GNU-5f5f5f?style=flat&logo=gnu&logoColor=000000&labelColor=ffffff)]()
+[![QQ](https://img.shields.io/badge/-Tencent-5f5f5f?style=flat&logo=tencentqq&logoColor=000000&labelColor=ffffff)](https://www.tencent.com/)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=whitefirer)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=whitefirer&show_icons=true&theme=vue" alt="whitefirer's github stats" />
@@ -85,6 +86,8 @@
 ![Switch](https://img.shields.io/badge/-Switch-5f5f5f?style=flat&logo=nintendo-switch&labelColor=d42426)
 ![PS](https://img.shields.io/badge/-PS-5f5f5f?style=flat&logo=playstation&labelColor=2b71ca)
 ![Bilibili](https://img.shields.io/badge/-Bilibili-5f5f5f?style=flat&logo=bilibili&logoColor=ffffff&labelColor=45a0d1)
+[![QQ Music](https://img.shields.io/badge/-QQMusic-5f5f5f?style=flat&logo=applemusic&logoColor=fadb4a&labelColor=5ba3aa)](https://y.qq.com/n/ryqq/playlist/1333418725)
+[![QQ Music](https://img.shields.io/badge/-QQMusic-5f5f5f?style=flat&logo=applemusic&logoColor=fadb4a&labelColor=5ba3aa)](https://y.qq.com/n/ryqq/playlist/1333418725)
 
 #### Operating systems  
 ![MacOS](https://img.shields.io/badge/-MacOS-5f5f5f?style=flat&logo=apple&logoColor=000000&labelColor=ffffff)
