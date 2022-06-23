@@ -25,6 +25,7 @@
 [![Gmail](https://img.shields.io/badge/-whitefirer@gmail.com-ea4335?style=flat&logo=Gmail&logoColor=ffffff)](mailto:whitefirer@gmail.com)
 [![Wechat](https://img.shields.io/badge/-whitefirer-5fcd73?style=flat&logo=Wechat&logoColor=ffffff)](./img/wechat.jpg)
 [![Zhihu](https://img.shields.io/badge/-whitefirer-2369f6?style=flat&logo=Zhihu&logoColor=ffffff)](https://www.zhihu.com/people/whitefirer)
+[![Bilibili](https://img.shields.io/badge/-Bilibili-5f5f5f?style=flat&logo=bilibili&logoColor=ffffff&labelColor=45a0d1)](https://space.bilibili.com/10317688)
 - ⚡ Fun fact: I am a **GEEK**
 - 💻 *Languages and Tools:* 🛠️<br>
 
@@ -84,7 +85,7 @@
 ![Steam](https://img.shields.io/badge/-Steam-5f5f5f?style=flat&logo=steam&labelColor=213a61)
 ![Switch](https://img.shields.io/badge/-Switch-5f5f5f?style=flat&logo=nintendo-switch&labelColor=d42426)
 ![PS](https://img.shields.io/badge/-PS-5f5f5f?style=flat&logo=playstation&labelColor=2b71ca)
-![PS](https://img.shields.io/badge/-PS-5f5f5f?style=flat&logo=aws)
+![Bilibili](https://img.shields.io/badge/-Bilibili-5f5f5f?style=flat&logo=bilibili&logoColor=ffffff&labelColor=45a0d1)
 
 #### Operating systems  
 ![MacOS](https://img.shields.io/badge/-MacOS-5f5f5f?style=flat&logo=apple&logoColor=000000&labelColor=ffffff)
