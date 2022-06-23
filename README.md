@@ -21,11 +21,10 @@
 - 🌱 I’m currently learning to become a excellent *`Cloud Native Developer`*, *`Infrastructure Engineer`*, *`Architect`*.
 - 👯 I’m looking to collaborate on a great project.
 - 💬 Ask me about *`Cloud Native`* or *`Architecture Design`*.
-- 📫 How to reach me: [send email to me](mailto:whitefirer@gmail.com) and More *`Contact`*:  
+- 📫 How to reach me: [send email to me](mailto:whitefirer@gmail.com) or:  
 [![Gmail](https://img.shields.io/badge/-whitefirer@gmail.com-ea4335?style=flat&logo=Gmail&logoColor=ffffff)](mailto:whitefirer@gmail.com)
 [![Wechat](https://img.shields.io/badge/-whitefirer-5fcd73?style=flat&logo=Wechat&logoColor=ffffff)](./img/wechat.jpg)
 [![Zhihu](https://img.shields.io/badge/-whitefirer-2369f6?style=flat&logo=Zhihu&logoColor=ffffff)](https://www.zhihu.com/people/whitefirer)
-[![Bilibili](https://img.shields.io/badge/-Bilibili-5f5f5f?style=flat&logo=bilibili&logoColor=ffffff&labelColor=45a0d1)](https://space.bilibili.com/10317688)
 - ⚡ Fun fact: I am a **GEEK**
 - 💻 *Languages and Tools:* 🛠️<br>
 
