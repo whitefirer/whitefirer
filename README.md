@@ -4,8 +4,7 @@
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-5f5f5f?style=flat&logo=kubernetes&logoColor=ffffff&labelColor=0078D6)](https://github.com/kubernetes)
 [![Istio](https://img.shields.io/badge/-Istio-5f5f5f?style=flat&logo=istio&logoColor=ffffff&labelColor=0078D6)](https://github.com/istio)
 [![Aeraki](https://img.shields.io/badge/-Aeraki-5f5f5f?style=flat&logo=aeraki&logoColor=ffffff&labelColor=0078D6)](https://github.com/aeraki-mesh)
-[![Argo](https://img.shields.io/badge/-Argo-5f5f5f?style=flat&logo=go&logoColor=ffffff&labelColor=0078D6)](https://github.com/argoproj)
-[![Docker](https://img.shields.io/badge/-Docker-5f5f5f?style=flat&logo=docker&logoColor=ffffff&labelColor=0078D6)](https://github.com/docker)
+[![Argo](https://img.shields.io/badge/-Argo-5f5f5f?style=flat&logo=argo&logoColor=ffffff&labelColor=0078D6)](https://github.com/argoproj)
 [![ETCD](https://img.shields.io/badge/-ETCD-5f5f5f?style=flat&logo=etcd&logoColor=ffffff&labelColor=599dd5)](https://github.com/etcd-io/etcd)
 [![Envoy](https://img.shields.io/badge/-Envoy-5f5f5f?style=flat&logo=consul&logoColor=ffffff&labelColor=d04fab)](https://github.com/envoyproxy)
 [![Consul](https://img.shields.io/badge/-Consul-5f5f5f?style=flat&logo=consul&logoColor=ffffff&labelColor=ce4875)](https://github.com/hashicorp/consul)
@@ -81,6 +80,7 @@
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-5f5f5f?style=flat&logo=virtualbox&labelColor=213a61)
 ![Grafana](https://img.shields.io/badge/-Grafana-5f5f5f?style=flat&logo=grafana&labelColor=ffffff)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-5f5f5f?style=flat&logo=jupyter&labelColor=ffffff)
+[![Docker](https://img.shields.io/badge/-Docker-5f5f5f?style=flat&logo=docker&logoColor=ffffff&labelColor=0078D6)](https://github.com/docker)
 ![Slack](https://img.shields.io/badge/-Slack-5f5f5f?style=flat&logo=slack&logoColor=ffffff&labelColor=0078D6)
 
 #### Hobby platform  
