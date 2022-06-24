@@ -26,7 +26,7 @@
 [![Wechat](https://img.shields.io/badge/-whitefirer-5fcd73?style=flat&logo=Wechat&logoColor=ffffff)](./img/wechat.jpg)
 [![Zhihu](https://img.shields.io/badge/-whitefirer-2369f6?style=flat&logo=Zhihu&logoColor=ffffff)](https://www.zhihu.com/people/whitefirer?_blank)
 - ⚡ Fun fact: I am a **GEEK**
-- 💻 *Languages and Tools:* 🛠️<br>
+- 💻 *Languages and Tools:* 🛠️
 <img align="right" src="https://skillicons.dev/icons?i=go,python,c,cpp,cs,rust,webassembly,nodejs,javascript,typescript,bash,markdown,fastapi,flask,django,postgres,mysql,mongo,redis,react,vue,bootstrap,jquery,git,kubernetes,docker,vim,vscode&perline=4&theme=light" />
 
 #### Languages  
