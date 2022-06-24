@@ -1,15 +1,15 @@
 ### Hi there, I'm `whitefirer` <img src = "./img/wave.gif" width=25>
 
-[![CNCF](https://img.shields.io/badge/-CNCF-5f5f5f?style=flat&logo=cncf&logoColor=ffffff&labelColor=0078D6)](https://www.cncf.io/?target=_blank)
-[![Kubernetes](https://img.shields.io/badge/-Kubernetes-5f5f5f?style=flat&logo=kubernetes&logoColor=ffffff&labelColor=0078D6)](https://github.com/kubernetes?_blank)
-[![Istio](https://img.shields.io/badge/-Istio-5f5f5f?style=flat&logo=istio&logoColor=ffffff&labelColor=0078D6)](https://github.com/istio?_blank)
-[![Aeraki](https://img.shields.io/badge/-Aeraki-5f5f5f?style=flat&logo=aeraki&logoColor=ffffff&labelColor=0078D6)](https://github.com/aeraki-mesh?_blank)
-[![Argo](https://img.shields.io/badge/-Argo-5f5f5f?style=flat&logo=argo&logoColor=ffffff&labelColor=0078D6)](https://github.com/argoproj?_blank)
-[![ETCD](https://img.shields.io/badge/-ETCD-5f5f5f?style=flat&logo=etcd&logoColor=ffffff&labelColor=599dd5)](https://github.com/etcd-io/etcd?_blank)
-[![Envoy](https://img.shields.io/badge/-Envoy-5f5f5f?style=flat&logo=consul&logoColor=ffffff&labelColor=d04fab)](https://github.com/envoyproxy?_blank)
-[![Consul](https://img.shields.io/badge/-Consul-5f5f5f?style=flat&logo=consul&logoColor=ffffff&labelColor=ce4875)](https://github.com/hashicorp/consul?_blank)
+[![CNCF](https://img.shields.io/badge/-CNCF-5f5f5f?style=flat&logo=cncf&logoColor=ffffff&labelColor=0078D6)](https://www.cncf.io/)
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-5f5f5f?style=flat&logo=kubernetes&logoColor=ffffff&labelColor=0078D6)](https://github.com/kubernetes)
+[![Istio](https://img.shields.io/badge/-Istio-5f5f5f?style=flat&logo=istio&logoColor=ffffff&labelColor=0078D6)](https://github.com/istio)
+[![Aeraki](https://img.shields.io/badge/-Aeraki-5f5f5f?style=flat&logo=aeraki&logoColor=ffffff&labelColor=0078D6)](https://github.com/aeraki-mesh)
+[![Argo](https://img.shields.io/badge/-Argo-5f5f5f?style=flat&logo=argo&logoColor=ffffff&labelColor=0078D6)](https://github.com/argoproj)
+[![ETCD](https://img.shields.io/badge/-ETCD-5f5f5f?style=flat&logo=etcd&logoColor=ffffff&labelColor=599dd5)](https://github.com/etcd-io/etcd)
+[![Envoy](https://img.shields.io/badge/-Envoy-5f5f5f?style=flat&logo=consul&logoColor=ffffff&labelColor=d04fab)](https://github.com/envoyproxy)
+[![Consul](https://img.shields.io/badge/-Consul-5f5f5f?style=flat&logo=consul&logoColor=ffffff&labelColor=ce4875)](https://github.com/hashicorp/consul)
 [![GNU](https://img.shields.io/badge/-GNU-5f5f5f?style=flat&logo=gnu&logoColor=000000&labelColor=ffffff)]()
-[![QQ](https://img.shields.io/badge/-Tencent-5f5f5f?style=flat&logo=tencentqq&logoColor=000000&labelColor=ffffff)](https://www.tencent.com/?_blank)
+[![QQ](https://img.shields.io/badge/-Tencent-5f5f5f?style=flat&logo=tencentqq&logoColor=000000&labelColor=ffffff)](https://www.tencent.com/)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=whitefirer)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=whitefirer&show_icons=true&theme=vue" alt="whitefirer's github stats" />
@@ -27,10 +27,9 @@
 [![Zhihu](https://img.shields.io/badge/-whitefirer-2369f6?style=flat&logo=Zhihu&logoColor=ffffff)](https://www.zhihu.com/people/whitefirer?_blank)
 - ⚡ Fun fact: I am a **GEEK**
 - 💻 *Languages and Tools:* 🛠️<br>
-
-#### Languages  
 <img align="right" src="https://skillicons.dev/icons?i=go,python,c,cpp,cs,rust,webassembly,nodejs,javascript,typescript,bash,markdown,fastapi,flask,django,postgres,mysql,mongo,redis,react,vue,bootstrap,jquery,git,kubernetes,docker,vim,vscode&perline=4&theme=light" />
 
+#### Languages  
 [![Go](https://img.shields.io/badge/-Go-5f5f5f?style=flat&logo=go&logoColor=85d2e3&labelColor=ffffff)](https://go.dev/)
 [![Python](https://img.shields.io/badge/-Python-5f5f5f?style=flat&logo=python&labelColor=ffffff)](https://www.python.org/)
 [![C](https://img.shields.io/badge/-C-5f5f5f?style=flat&logo=c&logoColor=4a79a5&labelColor=ffffff)](https://en.cppreference.com/w/c)
