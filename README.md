@@ -96,7 +96,7 @@
 ![CentOS](https://img.shields.io/badge/-CentOS-5f5f5f?style=flat&logo=centos&logoColor=883075&labelColor=ffffff)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-5f5f5f?style=flat&logo=ubuntu&labelColor=ffffff)
 [![Kali](https://img.shields.io/badge/-Kali-5f5f5f?style=flat&logo=kali-linux&logoColor=000000&labelColor=ffffff)](https://www.kali.org/)
-[![Debian](https://img.shields.io/badge/-OpenSUSE-5f5f5f?style=flat&logo=debian&logoColor=9a1e33&labelColor=ffffff)](https://www.debian.org/)
+[![Debian](https://img.shields.io/badge/-Debian-5f5f5f?style=flat&logo=debian&logoColor=9a1e33&labelColor=ffffff)](https://www.debian.org/)
 [![OpenSUSE](https://img.shields.io/badge/-OpenSUSE-5f5f5f?style=flat&logo=opensuse&logoColor=ffffff&labelColor=7aa44f)](https://www.opensuse.org/)
 ![Android](https://img.shields.io/badge/-Android-5f5f5f?style=flat&logo=android&labelColor=ffffff)
 ![iOS](https://img.shields.io/badge/-iOS-5f5f5f?style=flat&logo=ios&logoColor=000000&labelColor=ffffff)
