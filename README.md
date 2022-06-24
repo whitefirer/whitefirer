@@ -1,6 +1,6 @@
-### Hi there, I'm `whitefirer` <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=25>
+### Hi there, I'm `whitefirer` <img src = "./img/wave.gif" width=25>
 
-[![CNCF](https://img.shields.io/badge/-CNCF-5f5f5f?style=flat&logo=cncf&logoColor=ffffff&labelColor=0078D6)](https://www.cncf.io/?_blank)
+[![CNCF](https://img.shields.io/badge/-CNCF-5f5f5f?style=flat&logo=cncf&logoColor=ffffff&labelColor=0078D6)](https://www.cncf.io/?target=_blank)
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-5f5f5f?style=flat&logo=kubernetes&logoColor=ffffff&labelColor=0078D6)](https://github.com/kubernetes?_blank)
 [![Istio](https://img.shields.io/badge/-Istio-5f5f5f?style=flat&logo=istio&logoColor=ffffff&labelColor=0078D6)](https://github.com/istio?_blank)
 [![Aeraki](https://img.shields.io/badge/-Aeraki-5f5f5f?style=flat&logo=aeraki&logoColor=ffffff&labelColor=0078D6)](https://github.com/aeraki-mesh?_blank)
