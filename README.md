@@ -86,7 +86,7 @@
 ![Steam](https://img.shields.io/badge/-Steam-5f5f5f?style=flat&logo=steam&labelColor=213a61)
 ![Switch](https://img.shields.io/badge/-Switch-5f5f5f?style=flat&logo=nintendo-switch&labelColor=d42426)
 ![PS](https://img.shields.io/badge/-PS-5f5f5f?style=flat&logo=playstation&labelColor=2b71ca)
-![Bilibili](https://img.shields.io/badge/-Bilibili-5f5f5f?style=flat&logo=bilibili&logoColor=ffffff&labelColor=45a0d1)
+[![Bilibili](https://img.shields.io/badge/-Bilibili-5f5f5f?style=flat&logo=bilibili&logoColor=ffffff&labelColor=45a0d1)](bilibili.com)
 [![QQ Music](https://img.shields.io/badge/-QQMusic-5f5f5f?style=flat&logo=applemusic&logoColor=fadb4a&labelColor=5ba3aa)](https://y.qq.com/n/ryqq/playlist/1333418725)
 
 #### Operating systems  
