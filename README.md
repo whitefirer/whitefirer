@@ -81,6 +81,7 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-5f5f5f?style=flat&logo=jupyter&labelColor=ffffff)
 [![Docker](https://img.shields.io/badge/-Docker-5f5f5f?style=flat&logo=docker&logoColor=ffffff&labelColor=0078D6)](https://github.com/docker)
 ![Slack](https://img.shields.io/badge/-Slack-5f5f5f?style=flat&logo=slack&logoColor=ffffff&labelColor=0078D6)
+![Sentry](https://img.shields.io/badge/-Sentry-5f5f5f?style=flat&logo=sentry&logoColor=351c3d&labelColor=ffffff)
 
 #### Hobby platform  
 ![Steam](https://img.shields.io/badge/-Steam-5f5f5f?style=flat&logo=steam&labelColor=213a61)
